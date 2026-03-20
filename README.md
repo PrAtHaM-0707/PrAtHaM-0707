@@ -33,15 +33,15 @@
 
 ## 🚀 Major Projects
 
-- **🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform** *(Live)*
+- **🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform** *(Live)* <br>
   **Tech:** MERN Stack  
   → Built a scalable e-commerce system with authentication, product management, and secure backend APIs  
 
-- **📧 [AirMailer](https://airmailer.vercel.app/) – Email SaaS Platform** *(Live)*
+- **📧 [AirMailer](https://airmailer.vercel.app/) – Email SaaS Platform** *(Live)* <br>
   **Tech:** PERN Stack  
   → Developed a Resend-like SaaS platform with API-based email delivery and scalable backend architecture  
 
-- **🤖 Agentic Support AI**
+- **🤖 Agentic Support AI** <br>
   **Tech:** FastAPI, PostgreSQL, Qdrant, LangGraph, Groq  
   → Engineered a multi-agent AI system with RAG, planning, evaluation, and autonomous decision-making workflows  
 
@@ -55,8 +55,8 @@ MERN *(MongoDB, Express.js, React, Node.js)* • PERN *(PostgreSQL, Express.js, 
 ---
 
 ### 🧠 Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
