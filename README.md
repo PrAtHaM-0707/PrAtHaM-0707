@@ -50,13 +50,14 @@
 ## 💻 Tech Stack
 
 ### 🚀 Core Stack
-MERN *(MongoDB, Express.js, React, Node.js)* • PERN *(PostgreSQL, Express.js, React, Node.js)*
-
+- **MERN** *(MongoDB, Express.js, React, Node.js)*
+- **PERN** *(PostgreSQL, Express.js, React, Node.js)*
 ---
 
 ### 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -113,9 +114,8 @@ MERN *(MongoDB, Express.js, React, Node.js)* • PERN *(PostgreSQL, Express.js, 
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrAtHaM-0707&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=PrAtHaM-0707&theme=tokyonight" />
-</p>
+I’m always open to collaborating on interesting projects or discussing ideas around backend systems, AI, and scalable applications.
+
+Feel free to reach out!
