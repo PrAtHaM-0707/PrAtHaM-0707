@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pratham Mittal</h1>
 <h3 align="center">Full Stack Developer | MERN | PERN | Building Scalable & Real-time Apps 🚀</h3>
 
+<p align="center">
+💡 Backend-focused Full Stack Developer specializing in scalable systems, real-time applications, and AI-powered solutions.
+</p>
+
 <img style="border-radius: 10px;" src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 
 - 🚀 Currently exploring **Advanced Full Stack Development, System Design & Scalable Architectures**
@@ -18,28 +22,28 @@
 </picture>
 
 
-- **💡 I love building scalable, real-world applications and solving complex backend problems.**
+- 💡 I love building scalable, real-world applications and solving complex backend problems.
 
 
 # 🏆 Experience & Activities
 
 - **🎓 Google Student Ambassador**  
-- **🛠️ Freelance Full Stack Developer** 
-- **🏆 Active Hackathon Participant**
+- **🛠️ Freelance Full Stack Developer (built and deployed production-ready applications)** 
+- **🏆 Participated in multiple Hackathons, building real-world solutions under tight deadlines**
 
 # 🚀 Major Projects
 
 - **🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform**  
   Tech: MERN Stack  
-  → Full-featured e-commerce platform with authentication, product management & scalable backend
+  → Built a scalable e-commerce system with authentication, product management, and secure backend APIs
 
 - **📧 [AirMailer](https://airmailer.vercel.app/) - Email SaaS Platform**  
   Tech: PERN Stack  
-  → Resend-like platform for sending emails with API-based architecture and scalable backend
+  → Developed a SaaS platform with API-based email delivery and scalable backend architecture
 
 - **🤖 Agentic Support AI**  
   Tech: FastAPI, PostgreSQL, Qdrant, LangGraph, Groq  
-  → Designed multi-agent workflows with planning, evaluation, and autonomous decision-making
+  → Engineered a multi-agent AI system with RAG, planning, evaluation, and autonomous decision-making workflows
 
 # 💻 Tech Stack
 
@@ -47,7 +51,7 @@
 MongoDB • PostgreSQL • Express.js • React • Node.js  
 
 ### 🧠 Languages
-C++ • Java • Python • JavaScript • TypeScript  
+C++ • Java • JavaScript • TypeScript  
 
 ### 🎨 Frontend
 React • Tailwind CSS • Shadcn UI • HTML • CSS  
