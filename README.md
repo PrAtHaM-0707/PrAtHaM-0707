@@ -19,29 +19,29 @@
 
 ---
 
-💡 I love building scalable, real-world applications and solving complex backend problems.
+***💡 I love building scalable, real-world applications and solving complex backend problems.***
 
 ---
 
 ## 🏆 Experience & Activities
 
-- 🎓 Google Student Ambassador  
-- 🛠️ Freelance Full Stack Developer (built and deployed production-ready applications)  
-- 🏆 Participated in multiple Hackathons, building real-world solutions under tight deadlines  
+- **🎓 Google Student Ambassador**  
+- **🛠️ Freelance Full Stack Developer (built and deployed production-ready applications)**  
+- **🏆 Participated in multiple Hackathons, building real-world solutions under tight deadlines**  
 
 ---
 
 ## 🚀 Major Projects
 
-- 🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform  
+- **🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform**  
   **Tech:** MERN Stack  
   → Built a scalable e-commerce system with authentication, product management, and secure backend APIs  
 
-- 📧 [AirMailer](https://airmailer.vercel.app/) – Email SaaS Platform  
+- **📧 [AirMailer](https://airmailer.vercel.app/) – Email SaaS Platform**  
   **Tech:** PERN Stack  
   → Developed a Resend-like SaaS platform with API-based email delivery and scalable backend architecture  
 
-- 🤖 Agentic Support AI  
+- **🤖 Agentic Support AI**  
   **Tech:** FastAPI, PostgreSQL, Qdrant, LangGraph, Groq  
   → Engineered a multi-agent AI system with RAG, planning, evaluation, and autonomous decision-making workflows  
 
@@ -102,9 +102,8 @@
 
 ## 📫 Connect with me
 
-- 📧 Email: prathamm4402@gmail.com  
-- 💼 LinkedIn: (add your link here)  
-- 🌐 Portfolio: (if available)
+- 📧 Email: prathamm4402@gmail.com 
+- 🌐 Portfolio: [www.prathammittal.in](www.prathammittal.in)
 
 ---
 
