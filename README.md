@@ -29,7 +29,19 @@
 
 # 🚀 Projects
 
-# 💻 Tech Stack:
+- 🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform  
+  Tech: MERN Stack  
+  → Full-featured e-commerce platform with authentication, product management & scalable backend
+
+- 📧 [AirMailer](https://airmailer.vercel.app/) - Email SaaS Platform  
+  Tech: PERN Stack  
+  → Resend-like platform for sending emails with API-based architecture and scalable backend
+
+- 🤖 Agentic Support AI  
+  Tech: FastAPI, PostgreSQL, Qdrant, LangGraph, Groq  
+  → Designed multi-agent workflows with planning, evaluation, and autonomous decision-making
+
+<!-- # 💻 Tech Stack:
 
 ### 🚀 MERN & PERN
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,5 +63,28 @@
 ### 🛠 Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
 
+
+# 💻 Tech Stack
+
+### 🚀 MERN & PERN Stack
+MongoDB • PostgreSQL • Express.js • React • Node.js  
+
+### 🧠 Languages
+C++ • Java • Python • JavaScript • TypeScript  
+
+### 🎨 Frontend
+React • Tailwind CSS • Shadcn UI • HTML • CSS  
+
+### ⚙️ Backend
+Node.js • Express.js • Spring Boot • REST APIs • Authentication Systems  
+
+### 🗄️ Databases
+MongoDB • PostgreSQL • MySQL  
+
+### 🤖 AI / Advanced Tech
+LangChain • LangGraph • RAG • Qdrant • Groq API  
+
+### 🧰 Tools & Platforms
+Git • GitHub • Docker • Firebase • Vercel • Netlify • Render • Postman • Bruno
