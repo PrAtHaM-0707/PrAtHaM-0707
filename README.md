@@ -34,17 +34,14 @@
 ## 🚀 Major Projects
 
 - **🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform** *(Live)*
-
   **Tech:** MERN Stack  
   → Built a scalable e-commerce system with authentication, product management, and secure backend APIs  
 
 - **📧 [AirMailer](https://airmailer.vercel.app/) – Email SaaS Platform** *(Live)*
-
   **Tech:** PERN Stack  
   → Developed a Resend-like SaaS platform with API-based email delivery and scalable backend architecture  
 
 - **🤖 Agentic Support AI**
-
   **Tech:** FastAPI, PostgreSQL, Qdrant, LangGraph, Groq  
   → Engineered a multi-agent AI system with RAG, planning, evaluation, and autonomous decision-making workflows  
 
