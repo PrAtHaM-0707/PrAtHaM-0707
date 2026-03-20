@@ -33,11 +33,11 @@
 
 ## 🚀 Major Projects
 
-- **🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform**  
+- **🛒 [Aureon](https://aureon-web.vercel.app/) – E-commerce Platform** *(Live)*
   **Tech:** MERN Stack  
   → Built a scalable e-commerce system with authentication, product management, and secure backend APIs  
 
-- **📧 [AirMailer](https://airmailer.vercel.app/) – Email SaaS Platform**  
+- **📧 [AirMailer](https://airmailer.vercel.app/) – Email SaaS Platform** *(Live)*
   **Tech:** PERN Stack  
   → Developed a Resend-like SaaS platform with API-based email delivery and scalable backend architecture  
 
@@ -50,7 +50,7 @@
 ## 💻 Tech Stack
 
 ### 🚀 Core Stack
-*MERN (MongoDB, Express.js, React, Node.js) • PERN (PostgreSQL, Express.js, React, Node.js)*
+MERN *(MongoDB, Express.js, React, Node.js)* • PERN *(PostgreSQL, Express.js, React, Node.js)*
 
 ---
 
@@ -101,22 +101,21 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge)
 
 ---
 
 ## 📫 Connect with me
 
 - **📧 Email:** prathamm4402@gmail.com 
-- **🌐 Portfolio:** [www.prathammittal.in](www.prathammittal.in)
+- **🌐 Portfolio:** [www.prathammittal.in](https://www.prathammittal.in)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrAtHaM-0707&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PrAtHaM-0707&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrAtHaM-0707&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=PrAtHaM-0707&theme=tokyonight" />
+</p>
