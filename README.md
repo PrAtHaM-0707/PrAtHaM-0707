@@ -49,18 +49,18 @@
 
 ## 💻 Tech Stack
 
-### 🚀 MERN & PERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🚀 Core Stack
+*MERN (MongoDB, Express.js, React, Node.js) • PERN (PostgreSQL, Express.js, React, Node.js)*
+
+---
 
 ### 🧠 Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -69,16 +69,22 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
+---
+
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ### 🤖 AI / Advanced Tech
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
@@ -86,6 +92,8 @@
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-E10098?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+
+---
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -102,8 +110,8 @@
 
 ## 📫 Connect with me
 
-- 📧 Email: prathamm4402@gmail.com 
-- 🌐 Portfolio: [www.prathammittal.in](www.prathammittal.in)
+- **📧 Email:** prathamm4402@gmail.com 
+- **🌐 Portfolio:** [www.prathammittal.in](www.prathammittal.in)
 
 ---
 
